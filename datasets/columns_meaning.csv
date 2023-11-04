@@ -1,0 +1,23 @@
+,Tên cột,Ý nghĩa,Kiểu dữ liệu
+0,channel_id,Id kênh,object
+1,channel_name,Tên kênh,object
+2,uploads,Số lượng video,float64
+3,subscribers,Số subcribers,float64
+4,video_views,Tổng số lượt xem,float64
+5,channel_type,Thể loại,object
+6,user_created,Thời gian người dùng tham gia youtube,datetime64[ns]
+7,total_grade,Xếp loại,object
+8,social_blade_rank,Xếp hạng theo social blade,float64
+9,subscriber_rank,Xếp hạng theo số lượng người theo dõi,float64
+10,video_views_rank,Xếp hạng theo lượt xem,float64
+11,country_rank,Xếp hạng theo khu vực,float64
+12,channel_type_rank,Xếp hạng theo thê loại,float64
+13,subscribers_last_30_days,Số lượng người theo dõi tăng trong 30 ngày gần nhất,float64
+14,video_views_last_30_days,Số lượng view tăng trong 30 ngày gần nhất,float64
+15,estimated_monthly_earnings,Ước tính thu nhập tháng,object
+16,estimated_yearly_earnings,Ước tính thu nhập năm,object
+17,estimated_monthly_earnings_min,Biên dưới của thu nhập tháng này,float64
+18,estimated_monthly_earnings_max,Biên trên của thu nhập tháng này,float64
+19,estimated_yearly_earnings_min,Biên dưới của thu nhập năm này,float64
+20,estimated_yearly_earnings_max,Biên trên của thu nhập năm này,float64
+21,country_name,Tên quốc gia,object
